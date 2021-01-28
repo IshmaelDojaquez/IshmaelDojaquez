@@ -12,7 +12,9 @@
 
 
 Connect With Me
-<br>![alt text](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BDrKCjyvgTzaiBcXlkpxxsA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-nav.homepage"LinkedIn")
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ishmael-dojaquez)
+
+
 <!--
 **IshmaelDojaquez/IshmaelDojaquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
