@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishmael Dojaquez...</h1>
+<center><src="https://images8.alphacoders.com/545/545909.jpg"></center>
 <h3 align="center">But everybody just calls me Dojo!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishmaeldojaquez&label=Profile%20views&color=0e75b6&style=flat" alt="ishmaeldojaquez" /> </p>
@@ -15,7 +16,7 @@
 
 - 🎓 Studying for *Bachelors of Science Technical Management* @ *Embry-Riddle Aeronautical University*
 
-- ⚡ Fun fact **I have a Tokyo Ghoul tattoo!**
+- ⚡ Fun fact **I enjoy watching anime and in fact... I have a Tokyo Ghoul tattoo!** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
