@@ -1,6 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishmaeldojaquez&label=Profile%20views&color=0e75b6&style=flat" alt="ishmaeldojaquez" /> </p>
 <h1 align="center">Hi 👋, I'm Ishmael Dojaquez...</h1>
 <h3 align="center">But everybody just calls me Dojo!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishmaeldojaquez&label=Profile%20views&color=0e75b6&style=flat" alt="ishmaeldojaquez" /> </p>
 <img src="https://c4.wallpaperflare.com/wallpaper/460/445/99/anime-crossover-aang-avatar-angel-beats-wallpaper-preview.jpg" width="1400" height="300"
 
 <br>
