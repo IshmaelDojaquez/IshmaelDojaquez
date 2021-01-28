@@ -6,7 +6,7 @@
 <br>
 <br>
 <br>
-<br><p style="text-align: center;">All About Me:**</p>
+<br>**All About Me:**
 - 🔭 I’m currently working on an assortment of coding projects; experimenting & diving headfirst into the world of coding
 - 🌱 I’m currently learning:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C#
@@ -15,8 +15,8 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++
 - 🎓 Studying for *Bachelors of Science Technical Management* @ *Embry-Riddle Aeronatuical University*
 - 📫 Email: ishmael.dojaquez@outlook.com
-- ⚡ Fun fact: I have a Tokyo Ghoul tattoo...
-<br><p style="text-align: center;">![Alt Text](https://media.giphy.com/media/cCey0uDZ6Y09O/giphy.gif)</p>
+- ⚡ Fun fact: I have a Tokyo Ghoul tattoo
+<br><p style="text-align: center;"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Alt Text](https://media.giphy.com/media/cCey0uDZ6Y09O/giphy.gif)</p>
 
 
 <br>Connect With Me
