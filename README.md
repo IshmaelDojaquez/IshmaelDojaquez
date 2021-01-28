@@ -1,4 +1,6 @@
-### Hi there 👋 My name is Ishmael Dojaquez... but everybody calls me Dojo 🤷🏻‍♂️
+# Hi 👋 My name is Ishmael Dojaquez... but everybody calls me Dojo 🤷🏻‍♂️ 
+
+![alt text](https://cdn.wallpapersafari.com/43/39/SI8Fdn.jpg)
 
 - 🔭 I’m currently working on an assortment of coding projects; experimenting & diving headfirst into the world of coding
 - 🌱 I’m currently learning:
@@ -12,7 +14,7 @@
 
 
 Connect With Me
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ishmael-dojaquez)
+<br>[![Linkedin](https://i.imgur.com/PZMBafx.png) LinkedIn](https://www.linkedin.com/in/ishmael-dojaquez)
 
 
 <!--
