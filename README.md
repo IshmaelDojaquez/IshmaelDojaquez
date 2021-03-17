@@ -9,13 +9,14 @@
 <br>
 <br>
 
-- 📝 I’m currently working on an assortment of coding projects; experimenting & diving headfirst into the world of coding
+- 📝 Currently immersed in a Raspberry Pi project, a collaborative Covid-19 project, developing additional skills in Python and C#, and the tedious job search.
 
 - 🌱 I’m currently learning 
         <br>**C#
         <br>SQL
         <br>Azure
-        <br>C++**
+        <br>ASP.NET
+        <br>Python**
 
 - 📫 Contact me by email: **ishmael.dojaquez@outlook.com**
 
